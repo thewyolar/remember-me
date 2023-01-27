@@ -8,7 +8,7 @@ export const CELL = {
 
 export const DIFFICULT = {
     DEFAULT: 3,
-    MAX: 4
+    MAX: 10
 }
 
 export const GAME_STATUS = {
